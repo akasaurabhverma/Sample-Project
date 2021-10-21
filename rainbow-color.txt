@@ -2,6 +2,6 @@ Voilet
 Indigo
 Blue
 Green
-Red
 Yellow
 Orange
+Red
